@@ -5,6 +5,12 @@
     border-bottom:1.2px solid #f6f6f6;
 }
 
+a{
+    text-decoration: none !important;
+    color: black;
+}
+
+
 .sidebarChat:hover{
     background-color: #ebebeb;
 }
